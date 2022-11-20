@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace MyProject
+namespace Kogane
 {
     /// <summary>
     /// サポートする形式を管理するクラス
